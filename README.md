@@ -9,4 +9,4 @@
 - 📫 How to reach me: allday.nr@gmail.com
 - 🔖 Favorite Quote: “All bad precedents begin as justifiable measures. ” - Gaius Julius Caesar
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
